@@ -1,7 +1,8 @@
 ## Olá👋, me chamo Beatriz e sou apaixonada por tecnologia!
 
 - 🔭 Sou DevSecOps Jr
-  -⚡Graduanda em Ciência da Computação no Centro Universitário de João Pessoa
+ 
+ -⚡Graduanda em Ciência da Computação no Centro Universitário de João Pessoa
 - 🚀 Atualmente trabalho com as tecnologias Python, API, Docker, SQL e Java
 - 📚 Estou estudando Spring Bot e AWS
 
